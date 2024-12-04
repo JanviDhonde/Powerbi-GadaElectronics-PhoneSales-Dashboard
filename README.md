@@ -44,7 +44,7 @@ The main objectives of this project are:
 
 #### 1. **Overall Dashboard Overview**  
 A summary of key metrics, trends, and performance indicators.  
-![Dashboard Overview](./Dashboard.jpg)
+![Dashboard Overview](https://github.com/JanviDhonde/Powerbi-GadaElectronics-PhoneSales-Dashboard/blob/main/Dashboard.jpg)
 
 #### 2. **Month-to-Date (MTD) Report**  
 Displays metrics for the current month.  
