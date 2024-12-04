@@ -52,7 +52,7 @@ Displays metrics for the current month.
 
 #### 3. **Same Period Last Year (SPLY) Report**  
 Compares current month's performance with the same period last year.  
-![SPLY Report](./Same%20Period%20Last%20Year%20report.jpg)
+![SPLY Report](https://github.com/JanviDhonde/Powerbi-GadaElectronics-PhoneSales-Dashboard/blob/main/Same%20Period%20Last%20Year%20report.jpg)
 
 ### 📈 **Project Learnings**  
 
