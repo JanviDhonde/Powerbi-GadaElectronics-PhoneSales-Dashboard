@@ -48,7 +48,7 @@ A summary of key metrics, trends, and performance indicators.
 
 #### 2. **Month-to-Date (MTD) Report**  
 Displays metrics for the current month.  
-![MTD Report](./MTD%20Report.jpg)
+![MTD Report](https://github.com/JanviDhonde/Powerbi-GadaElectronics-PhoneSales-Dashboard/blob/main/MTD%20Report.jpg)
 
 #### 3. **Same Period Last Year (SPLY) Report**  
 Compares current month's performance with the same period last year.  
